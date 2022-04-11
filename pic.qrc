@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/white.png</file>
+        <file>pic/icon/arrow-back.svg</file>
+        <file>pic/icon/file+.svg</file>
+        <file>pic/icon/folder.svg</file>
+        <file>pic/icon/save.svg</file>
+        <file>pic/icon/write.svg</file>
+    </qresource>
+</RCC>
